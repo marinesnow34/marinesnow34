@@ -41,9 +41,9 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 |Date|Organization|Name|Award|
 |:---:|:---:|:---:|:---:|
-|2022.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
-|2023.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
 |2023.11|한국관광공사 X KAKAO|2023 관광데이터 활용공모전|장려상|
+|2023.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
+|2022.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
 
 ### 🏅 Solved.ac Tier 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marinesnow34)](https://solved.ac/profile/marinesnow34)
