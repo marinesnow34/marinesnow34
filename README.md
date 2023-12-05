@@ -22,20 +22,19 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-  <br/>
   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+  <!--![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) -->
 </p>
 
 ### 🧩 Activity 🧩
 
-|Organization|Activity|Date|
-|:---:|:---:|:---:|
-|ReadyVery|백엔드 개발자|2023 ~ now|
-|이화여자대학교|백엔드 개발자|2023 ~ now|
-|해군|정보보호병|2021 ~ 2022|
-|가톨릭대학교|웹 취약점 점검|2019 ~ 2020|
+|Organization|Summary|Activity|Date|
+|:---:|:---:|:---:|:---:|
+|ReadyVery|커피 원격 주문 서비스|백엔드 개발자|2023 ~ now|
+|이화여자대학교|이화여대 통번역 플랫폼 외주 개발|백엔드 개발자|2023 ~ now|
+|해군|사이버 자산 관리 및 방화벽 관제|정보보호병|2021 ~ 2022|
+|가톨릭대학교|모의해킹 외주|웹 취약점 점검|2019 ~ 2020|
 
 ### 🔥 Awards 🔥
 
