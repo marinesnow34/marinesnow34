@@ -12,6 +12,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 </p>   
 
 
+
 ### 📚 Skills 📚
 <p>
   
@@ -26,6 +27,8 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
   <!--![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) -->
 </p>
+
+
 
 ### 🧩 Activity 🧩
 
@@ -43,6 +46,11 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 |2023.11|한국관광공사 X KAKAO|2023 관광데이터 활용공모전|장려상|
 |2023.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
 |2022.10|가톨릭대학교|교내 ACM-ICPC 예선 대회|은상|
+
+
+### 🎤 Speaker 🎤
+
+[[AWS Student Community 2024] Zero부터 시작하는 아키텍처 설계](https://festa.io/events/4828)
 
 ### 🏅 Solved.ac Tier 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marinesnow34)](https://solved.ac/profile/marinesnow34)
