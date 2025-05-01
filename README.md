@@ -4,7 +4,6 @@
  ## 👨‍💻 About 👨‍💻
  
 [![Tech blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github)](https://marinesnow34.github.io)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarinesnow34%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🏫 University 🏫
 <p align="center">
@@ -51,7 +50,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 ### 🎤 Speaker 🎤
 
-[[AWS Student Community 2024] Zero부터 시작하는 아키텍처 설계](https://festa.io/events/4828)
+[[AWS Student Community 2024] Zero부터 시작하는 아키텍처 설계](https://img.notionusercontent.com/s3/prod-files-secure%2F124c96e0-e844-4d44-aa13-cbd48aa71d73%2Fa4c34a8b-a024-401c-9a22-5fd17cbcaed6%2Fimage.png/size/w=1420?exp=1746197911&sig=fNnul1OqUn37LQWbHB600QMQZ_EkIgiZZ5gitt4pvvQ&id=1819bb97-9fec-809c-9571-d52b8b330ca6&table=block)
 
 ### 🏅 Solved.ac Tier 🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marinesnow34)](https://solved.ac/profile/marinesnow34)
