@@ -33,7 +33,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 |Organization|Summary|Activity|Date|
 |:---:|:---:|:---:|:---:|
-|[ReadyVery](https://readyvery.com/)|커피 원격 주문 서비스|백엔드, 인프라 개발자|2023 ~ 2024|
+|[ReadyVery](https://ready.marinesnow34.com/)|커피 원격 주문 서비스|백엔드, 인프라 개발자|2023 ~ 2024|
 |이화여자대학교|이화여대 통번역 플랫폼 개발|백엔드, 인프라 개발자|2023 ~ 2024|
 |해군|사이버 자산 관리 및 방화벽 관제|정보보호병|2021 ~ 2022|
 |가톨릭대학교|모의해킹 외주|웹사이트 취약점 점검|2020, 2022|
